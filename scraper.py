@@ -257,7 +257,7 @@ class PriceScraper:
             seen: set[str] = set()
 
             with DDGS() as ddgs:
-                items = list(ddgs.text(f"{query} buy price", region=self.region, max_results=15))
+                items = list(ddgs.text(f"{query} buy price", region=self.region, max_results=30))
 
             lo = our_price * 0.30
             hi = our_price * 2.5
@@ -291,9 +291,6 @@ class PriceScraper:
                 )
                 seen.add(m_lower)
 
-                if len(out) >= self.max_results:
-                    break
-
             return out
         except Exception as exc:
             logger.warning("DDG text search failed: %s", exc)
@@ -321,9 +318,17 @@ class PriceScraper:
             prices = self._ddg_search(f"{brand} {description}", our_price)
 
             # Strategy 2: include SKU
-            if len(prices) < 2:
+            seen = {p.merchant.lower() for p in prices}
+            if len(prices) < self.max_results:
                 more = self._ddg_search(f"{sku} {description}", our_price)
-                seen = {p.merchant.lower() for p in prices}
+                for p in more:
+                    if p.merchant.lower() not in seen:
+                        prices.append(p)
+                        seen.add(p.merchant.lower())
+
+            # Strategy 3: product name + category
+            if len(prices) < self.max_results:
+                more = self._ddg_search(f"{description} {category} price", our_price)
                 for p in more:
                     if p.merchant.lower() not in seen:
                         prices.append(p)

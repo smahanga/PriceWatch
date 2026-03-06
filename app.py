@@ -402,6 +402,7 @@ if run_btn:
     bar.progress(1.0, text="Scan complete!")
     info.empty()
 
+    results = [r for r in results if r.competitor_prices]
     st.session_state["results"] = results
     st.session_state["results_df"] = _build_results_df(results)
     st.session_state["analysis_done"] = True
@@ -432,9 +433,8 @@ total = len(results)
 comp_n = sum(1 for r in results if r.price_status == "competitive")
 high_n = sum(1 for r in results if r.price_status == "high")
 slight_n = sum(1 for r in results if r.price_status == "slightly_high")
-unk_n = sum(1 for r in results if r.price_status == "unknown")
 total_gap = sum(r.savings_opportunity for r in results)
-score = comp_n / max(total - unk_n, 1) * 100
+score = comp_n / max(total, 1) * 100
 
 kpis = [
     ("Products Scanned", str(total), "#2563eb"),
@@ -469,9 +469,9 @@ with tab_tbl:
     with fc1:
         st_filter = st.multiselect(
             "Status",
-            ["competitive", "slightly_high", "high", "unknown"],
-            default=["competitive", "slightly_high", "high", "unknown"],
-            format_func=lambda s: {"competitive": "Competitive", "slightly_high": "Slightly High", "high": "Overpriced", "unknown": "No Data"}[s],
+            ["competitive", "slightly_high", "high"],
+            default=["competitive", "slightly_high", "high"],
+            format_func=lambda s: {"competitive": "Competitive", "slightly_high": "Slightly High", "high": "Overpriced"}[s],
         )
     with fc2:
         sort_by = st.selectbox("Sort by", ["% Diff", "Savings Opp.", "Our Price", "Min Competitor"])
@@ -485,7 +485,7 @@ with tab_tbl:
         disp[c] = disp[c].apply(_usd)
     disp["% Diff"] = disp["% Diff"].apply(_pct)
     disp["Status"] = disp["Status"].map(
-        {"competitive": "Competitive", "slightly_high": "Slightly High", "high": "Overpriced", "unknown": "No Data"}
+        {"competitive": "Competitive", "slightly_high": "Slightly High", "high": "Overpriced"}
     )
     # Reorder columns to show top competitors prominently
     col_order = ["SKU", "Product", "Brand", "Category", "Our Price",
