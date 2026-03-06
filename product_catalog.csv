@@ -1,0 +1,465 @@
+sku,product_name,brand,category,price
+SKU-0001,Galaxy S24 Ultra 256GB,Samsung,Electronics,1208.86
+SKU-0002,Galaxy S24+ 256GB,Samsung,Electronics,852.75
+SKU-0003,Galaxy A54 128GB,Samsung,Electronics,362.0
+SKU-0004,Galaxy A34 128GB,Samsung,Electronics,271.32
+SKU-0005,Galaxy Buds2 Pro,Samsung,Electronics,207.92
+SKU-0006,Galaxy Watch 6 Classic 47mm,Samsung,Electronics,403.14
+SKU-0007,Galaxy Watch 6 40mm,Samsung,Electronics,320.37
+SKU-0008,Galaxy Tab S9 Ultra 256GB,Samsung,Electronics,1016.39
+SKU-0009,Galaxy Tab S9 FE 128GB,Samsung,Electronics,441.19
+SKU-0010,"55"" Crystal UHD 4K CU8000",Samsung,Electronics,350.04
+SKU-0011,"65"" QN90C Neo QLED 4K",Samsung,Electronics,1386.46
+SKU-0012,"75"" QN85C Neo QLED 4K",Samsung,Electronics,1801.14
+SKU-0013,T7 2TB Portable SSD,Samsung,Electronics,140.06
+SKU-0014,iPhone 15 Pro Max 256GB,Apple,Electronics,1138.77
+SKU-0015,iPhone 15 Pro 256GB,Apple,Electronics,1128.98
+SKU-0016,iPhone 15 128GB,Apple,Electronics,780.74
+SKU-0017,iPhone SE 3rd Gen 64GB,Apple,Electronics,390.02
+SKU-0018,AirPods Pro 2nd Gen,Apple,Electronics,228.46
+SKU-0019,AirPods Max,Apple,Electronics,529.94
+SKU-0020,AirPods 3rd Gen,Apple,Electronics,149.19
+SKU-0021,Apple Watch Ultra 2,Apple,Electronics,829.58
+SKU-0022,Apple Watch Series 9 45mm,Apple,Electronics,454.85
+SKU-0023,Apple Watch SE 2nd Gen 44mm,Apple,Electronics,266.01
+SKU-0024,"iPad Pro 12.9"" M2 256GB",Apple,Electronics,1130.1
+SKU-0025,"iPad Air 11"" M2 128GB",Apple,Electronics,694.72
+SKU-0026,iPad 10th Gen 64GB,Apple,Electronics,382.66
+SKU-0027,iPad Mini 6th Gen 64GB,Apple,Electronics,458.27
+SKU-0028,"MacBook Air M3 13"" 256GB",Apple,Electronics,1018.34
+SKU-0029,"MacBook Air M3 15"" 512GB",Apple,Electronics,1468.5
+SKU-0030,"MacBook Pro M3 14"" 512GB",Apple,Electronics,1840.49
+SKU-0031,"MacBook Pro M3 Max 16"" 1TB",Apple,Electronics,3402.56
+SKU-0032,Pixel 8 Pro 128GB,Google,Electronics,944.95
+SKU-0033,Pixel 8a 128GB,Google,Electronics,452.62
+SKU-0034,Pixel 7a 128GB,Google,Electronics,446.31
+SKU-0035,Pixel Tablet 128GB,Google,Electronics,436.85
+SKU-0036,Nest Hub Max,Google,Electronics,215.56
+SKU-0037,Nest Learning Thermostat,Google,Electronics,243.88
+SKU-0038,Nest Cam Outdoor Battery,Google,Electronics,167.56
+SKU-0039,Edge 50 Pro,Motorola,Electronics,485.17
+SKU-0040,Moto G Power 2024,Motorola,Electronics,227.87
+SKU-0041,14 Ultra,OnePlus,Electronics,939.91
+SKU-0042,Nord N30 5G,OnePlus,Electronics,202.67
+SKU-0043,WH-1000XM5 Wireless Headphones,Sony,Electronics,321.79
+SKU-0044,WF-1000XM5 Earbuds,Sony,Electronics,263.47
+SKU-0045,PlayStation 5 Console,Sony,Electronics,452.99
+SKU-0046,PlayStation 5 Digital Edition,Sony,Electronics,360.64
+SKU-0047,DualSense Wireless Controller,Sony,Electronics,60.52
+SKU-0048,Alpha a7 IV Mirrorless Body,Sony,Electronics,2282.39
+SKU-0049,ZV-E10 Vlog Camera,Sony,Electronics,744.35
+SKU-0050,"65"" Bravia XR A95L OLED 4K",Sony,Electronics,2254.38
+SKU-0051,"55"" X90L 4K Smart TV",Sony,Electronics,872.41
+SKU-0052,QuietComfort Ultra Headphones,Bose,Electronics,349.95
+SKU-0053,QuietComfort Earbuds II,Bose,Electronics,262.35
+SKU-0054,SoundLink Flex Speaker,Bose,Electronics,147.1
+SKU-0055,Momentum 4 Wireless Headphones,Sennheiser,Electronics,350.84
+SKU-0056,HD 560S Open-Back Headphones,Sennheiser,Electronics,179.46
+SKU-0057,Tune 770NC Wireless Headphones,JBL,Electronics,82.42
+SKU-0058,Charge 5 Bluetooth Speaker,JBL,Electronics,168.17
+SKU-0059,Elite 85t True Wireless Earbuds,Jabra,Electronics,187.17
+SKU-0060,"65"" OLED C4 4K Smart TV",LG,Electronics,1688.73
+SKU-0061,"55"" OLED B4 4K Smart TV",LG,Electronics,1295.86
+SKU-0062,"77"" OLED G4 4K Smart TV",LG,Electronics,3011.0
+SKU-0063,"34"" Curved UltraWide Monitor",LG,Electronics,632.54
+SKU-0064,"65"" U8K Mini-LED 4K",Hisense,Electronics,835.92
+SKU-0065,"55"" A6 Series 4K",Hisense,Electronics,333.29
+SKU-0066,"50"" Roku Smart TV 4K",TCL,Electronics,311.08
+SKU-0067,"65"" 6-Series Mini-LED 4K",TCL,Electronics,744.81
+SKU-0068,"65"" M-Series Quantum 4K",Vizio,Electronics,453.82
+SKU-0069,Fire HD 10 64GB Tablet,Amazon,Electronics,128.46
+SKU-0070,Fire HD 8 32GB Tablet,Amazon,Electronics,84.35
+SKU-0071,Echo Show 10 3rd Gen,Amazon,Electronics,209.55
+SKU-0072,Echo Dot 5th Gen,Amazon,Electronics,48.43
+SKU-0073,Echo Show 5 3rd Gen,Amazon,Electronics,96.53
+SKU-0074,"55"" 4-Series Fire TV 4K",Amazon,Electronics,280.47
+SKU-0075,XPS 15 i7 16GB Laptop,Dell,Electronics,1395.63
+SKU-0076,XPS 13 Plus i7 16GB Laptop,Dell,Electronics,1217.69
+SKU-0077,Inspiron 15 i5 8GB Laptop,Dell,Electronics,686.18
+SKU-0078,Inspiron 14 2-in-1 i5 Laptop,Dell,Electronics,667.83
+SKU-0079,"27"" UltraSharp 4K Monitor",Dell,Electronics,475.49
+SKU-0080,"Spectre x360 14"" i7 Laptop",HP,Electronics,1372.99
+SKU-0081,Pavilion 15 Ryzen 5 Laptop,HP,Electronics,633.21
+SKU-0082,"Envy x360 15"" Ryzen 7 Laptop",HP,Electronics,901.55
+SKU-0083,LaserJet Pro MFP M234dw Printer,HP,Electronics,208.23
+SKU-0084,ThinkPad X1 Carbon Gen 11,Lenovo,Electronics,1658.13
+SKU-0085,"IdeaPad 3 15"" Ryzen 5 Laptop",Lenovo,Electronics,508.91
+SKU-0086,"Yoga 9i 14"" OLED i7 Laptop",Lenovo,Electronics,1353.83
+SKU-0087,ROG Zephyrus G14 RTX 4060,ASUS,Electronics,1598.26
+SKU-0088,Zenbook 14 OLED Laptop,ASUS,Electronics,900.91
+SKU-0089,VivoBook 15 Ryzen 5 Laptop,ASUS,Electronics,460.82
+SKU-0090,"Surface Laptop 5 13.5""",Microsoft,Electronics,908.42
+SKU-0091,Surface Pro 9 i7 16GB,Microsoft,Electronics,1431.89
+SKU-0092,Xbox Series X Console,Microsoft,Electronics,480.37
+SKU-0093,Xbox Series S Console,Microsoft,Electronics,288.6
+SKU-0094,Xbox Wireless Controller,Microsoft,Electronics,57.44
+SKU-0095,Swift Go 14 OLED Laptop,Acer,Electronics,761.71
+SKU-0096,"Nitro 5 RTX 4050 15.6"" Laptop",Acer,Electronics,875.32
+SKU-0097,Nintendo Switch OLED,Nintendo,Electronics,348.92
+SKU-0098,Nintendo Switch Lite,Nintendo,Electronics,189.58
+SKU-0099,Pro Controller,Nintendo,Electronics,68.71
+SKU-0100,EOS R6 Mark II Camera Body,Canon,Electronics,2471.16
+SKU-0101,EOS R50 Mirrorless Kit,Canon,Electronics,601.3
+SKU-0102,PIXMA TR8620a Inkjet Printer,Canon,Electronics,185.04
+SKU-0103,Z6 III Mirrorless Camera Body,Nikon,Electronics,2435.34
+SKU-0104,HERO12 Black Action Camera,GoPro,Electronics,375.85
+SKU-0105,Mini 4 Pro Drone,DJI,Electronics,752.37
+SKU-0106,Instax Mini 12 Instant Camera,Fujifilm,Electronics,71.82
+SKU-0107,MX Master 3S Mouse,Logitech,Electronics,90.12
+SKU-0108,MX Keys S Keyboard,Logitech,Electronics,103.35
+SKU-0109,C920x HD Pro Webcam,Logitech,Electronics,68.07
+SKU-0110,G Pro X Superlight Mouse,Logitech,Electronics,157.61
+SKU-0111,BlackWidow V4 Keyboard,Razer,Electronics,166.52
+SKU-0112,DeathAdder V3 Mouse,Razer,Electronics,74.27
+SKU-0113,Blackshark V2 Pro Gaming Headset,Razer,Electronics,174.03
+SKU-0114,Fenix 7X Solar Smartwatch,Garmin,Electronics,725.8
+SKU-0115,Venu 3 Smartwatch,Garmin,Electronics,444.63
+SKU-0116,Forerunner 265 Watch,Garmin,Electronics,442.53
+SKU-0117,Edge 540 GPS Bike Computer,Garmin,Electronics,299.89
+SKU-0118,Sense 2 Fitness Tracker,Fitbit,Electronics,280.95
+SKU-0119,Charge 6 Fitness Tracker,Fitbit,Electronics,151.18
+SKU-0120,"27"" Odyssey G7 Gaming Monitor",Samsung,Electronics,521.93
+SKU-0121,Thunderbolt 4 Dock,CalDigit,Electronics,360.0
+SKU-0122,Hue Starter Kit 4-Pack,Philips,Electronics,175.97
+SKU-0123,Hue Play Light Bar 2-Pack,Philips,Electronics,124.57
+SKU-0124,Sonicare DiamondClean 9500,Philips,Electronics,236.12
+SKU-0125,OneBlade Pro Face+Body,Philips,Electronics,49.01
+SKU-0126,Ring Video Doorbell Pro 2,Ring,Electronics,215.21
+SKU-0127,Ring Indoor Cam 2nd Gen,Ring,Electronics,49.19
+SKU-0128,Wyze Cam v3 Pro,Wyze,Electronics,38.29
+SKU-0129,Kasa Smart Plug Mini 4-Pack,TP-Link,Electronics,32.79
+SKU-0130,Smart Lock Encode Plus,Schlage,Electronics,290.58
+SKU-0131,EcoTank ET-2850 Inkjet Printer,Epson,Electronics,214.38
+SKU-0132,HL-L2350DW Laser Printer,Brother,Electronics,121.32
+SKU-0133,Arctis Nova 7 Gaming Headset,SteelSeries,Electronics,175.34
+SKU-0134,SanDisk 1TB Extreme Portable SSD,SanDisk,Electronics,107.41
+SKU-0135,My Passport 4TB External HDD,Western Digital,Electronics,101.57
+SKU-0136,65W USB-C Charger,Anker,Electronics,33.86
+SKU-0137,PowerCore 26800mAh Battery Pack,Anker,Electronics,50.11
+SKU-0138,TI-84 Plus CE Calculator,Texas Instruments,Electronics,141.82
+SKU-0139,Artisan Stand Mixer 5qt,KitchenAid,Home & Kitchen,420.9
+SKU-0140,Professional 600 Stand Mixer,KitchenAid,Home & Kitchen,415.69
+SKU-0141,E310 Explorian Blender,Vitamix,Home & Kitchen,317.52
+SKU-0142,Professional Plus Blender,Ninja,Home & Kitchen,105.49
+SKU-0143,Air Fryer Pro XL 5.8qt,Ninja,Home & Kitchen,129.6
+SKU-0144,Creami Ice Cream Maker,Ninja,Home & Kitchen,192.62
+SKU-0145,Duo 8qt Pressure Cooker,Instant Pot,Home & Kitchen,87.46
+SKU-0146,Duo Plus 6qt Pressure Cooker,Instant Pot,Home & Kitchen,105.35
+SKU-0147,Precision Cooker Nano,Anova,Home & Kitchen,115.18
+SKU-0148,Smart Oven Air Fryer Pro,Breville,Home & Kitchen,380.1
+SKU-0149,4-Slice Toaster Oven,Breville,Home & Kitchen,155.03
+SKU-0150,Barista Express Espresso Machine,Breville,Home & Kitchen,645.76
+SKU-0151,12-Cup Food Processor,Cuisinart,Home & Kitchen,198.76
+SKU-0152,Waffle Maker Pro,Cuisinart,Home & Kitchen,72.0
+SKU-0153,12-Cup Drip Coffee Maker,Cuisinart,Home & Kitchen,87.76
+SKU-0154,K-Elite Coffee Maker,Keurig,Home & Kitchen,159.7
+SKU-0155,K-Mini Single Serve Coffee Maker,Keurig,Home & Kitchen,71.42
+SKU-0156,Vertuo Next Coffee Machine,Nespresso,Home & Kitchen,160.23
+SKU-0157,10-Piece Stainless Steel Set,All-Clad,Home & Kitchen,666.62
+SKU-0158,"D3 Stainless 12"" Fry Pan",All-Clad,Home & Kitchen,122.53
+SKU-0159,Hard Anodized 12-Piece Set,Calphalon,Home & Kitchen,272.01
+SKU-0160,"Classic Nonstick 10"" Fry Pan",Calphalon,Home & Kitchen,31.2
+SKU-0161,"12"" Cast Iron Skillet",Lodge,Home & Kitchen,30.06
+SKU-0162,6qt Enameled Dutch Oven,Lodge,Home & Kitchen,81.62
+SKU-0163,Always Pan 2.0,Our Place,Home & Kitchen,134.58
+SKU-0164,Perfect Pot 5.5qt,Our Place,Home & Kitchen,148.11
+SKU-0165,5.5qt Dutch Oven,Le Creuset,Home & Kitchen,409.17
+SKU-0166,Nonstick 11-Piece Set,T-fal,Home & Kitchen,81.13
+SKU-0167,"Pro 12"" Frying Pan",GreenPan,Home & Kitchen,53.76
+SKU-0168,Venice Pro 11-Piece Set,GreenPan,Home & Kitchen,315.9
+SKU-0169,V15 Detect Cordless Vacuum,Dyson,Home & Kitchen,670.42
+SKU-0170,V12 Detect Slim Cordless Vacuum,Dyson,Home & Kitchen,462.23
+SKU-0171,V8 Cordless Vacuum,Dyson,Home & Kitchen,414.49
+SKU-0172,Roomba j7+ Robot Vacuum,iRobot,Home & Kitchen,713.21
+SKU-0173,Roomba i3+ EVO Robot Vacuum,iRobot,Home & Kitchen,396.27
+SKU-0174,Roomba Combo j5+ Robot Vacuum,iRobot,Home & Kitchen,616.69
+SKU-0175,Jet Bot AI+ Robot Vacuum,Samsung,Home & Kitchen,960.5
+SKU-0176,Navigator Lift-Away ADV Vacuum,Shark,Home & Kitchen,188.52
+SKU-0177,AI Ultra Robot Vacuum,Shark,Home & Kitchen,463.54
+SKU-0178,Vertex Pro Cordless Vacuum,Shark,Home & Kitchen,392.11
+SKU-0179,S8 Pro Ultra Robot Vacuum,Roborock,Home & Kitchen,1368.43
+SKU-0180,Floor One S5 Combo Wet/Dry,Tineco,Home & Kitchen,445.7
+SKU-0181,Percale Sheet Set Queen,Brooklinen,Home & Kitchen,158.16
+SKU-0182,Classic Down Comforter Queen,Brooklinen,Home & Kitchen,316.34
+SKU-0183,Original Mattress Queen,Casper,Home & Kitchen,1191.83
+SKU-0184,Wave Hybrid Mattress Queen,Casper,Home & Kitchen,1644.21
+SKU-0185,Memory Foam Pillow Queen,Tempur-Pedic,Home & Kitchen,67.05
+SKU-0186,Weighted Blanket 15lb,Gravity,Home & Kitchen,189.36
+SKU-0187,Malm 6-Drawer Dresser,IKEA,Home & Kitchen,242.08
+SKU-0188,Kallax Shelf Unit 4x4,IKEA,Home & Kitchen,156.46
+SKU-0189,Billy Bookcase,IKEA,Home & Kitchen,72.8
+SKU-0190,Aeron Chair Remastered,Herman Miller,Home & Kitchen,1429.58
+SKU-0191,Embody Chair,Herman Miller,Home & Kitchen,1621.56
+SKU-0192,Series 1 Task Chair,Steelcase,Home & Kitchen,445.64
+SKU-0193,"Uplift V2 Standing Desk 60""",Uplift,Home & Kitchen,648.96
+SKU-0194,Swiffer WetJet Starter Kit,Swiffer,Home & Kitchen,31.39
+SKU-0195,Classic Fit Oxford Shirt,Ralph Lauren,Clothing,92.74
+SKU-0196,Slim Fit Stretch Oxford Shirt,Ralph Lauren,Clothing,114.84
+SKU-0197,Dri-FIT Running Tee,Nike,Clothing,37.81
+SKU-0198,Fleece Pullover Hoodie,Nike,Clothing,56.01
+SKU-0199,Tech Fleece Full-Zip Hoodie,Nike,Clothing,129.98
+SKU-0200,Sportswear Club Tee,Nike,Clothing,33.2
+SKU-0201,Air Force 1 '07 Shoes,Nike,Clothing,119.07
+SKU-0202,Air Max 270 Shoes,Nike,Clothing,157.79
+SKU-0203,Air Jordan 1 Mid Shoes,Nike,Clothing,131.22
+SKU-0204,Pegasus 40 Running Shoes,Nike,Clothing,123.33
+SKU-0205,"Dri-FIT Flex Stride Shorts 7""",Nike,Clothing,47.28
+SKU-0206,Club Fleece Joggers,Nike,Clothing,58.21
+SKU-0207,One Luxe Mid-Rise Leggings,Nike,Clothing,78.02
+SKU-0208,Windrunner Jacket,Nike,Clothing,81.76
+SKU-0209,Pro Compression Tights,Nike,Clothing,57.58
+SKU-0210,Dri-FIT ADV Running Singlet,Nike,Clothing,69.71
+SKU-0211,Essentials Logo Crewneck,Adidas,Clothing,31.92
+SKU-0212,Trefoil Hoodie,Adidas,Clothing,66.76
+SKU-0213,Tiro 23 Training Jacket,Adidas,Clothing,54.1
+SKU-0214,Ultraboost Light Shoes,Adidas,Clothing,172.69
+SKU-0215,Stan Smith Lux Shoes,Adidas,Clothing,128.72
+SKU-0216,Gazelle Indoor Shoes,Adidas,Clothing,109.91
+SKU-0217,Ultimate365 Golf Pants,Adidas,Clothing,81.12
+SKU-0218,Tiro 23 Training Pants,Adidas,Clothing,50.78
+SKU-0219,Techfit Training Tee,Adidas,Clothing,32.32
+SKU-0220,Better Sweater 1/4 Zip,Patagonia,Clothing,124.93
+SKU-0221,Nano Puff Jacket,Patagonia,Clothing,227.44
+SKU-0222,Down Sweater Hoodie,Patagonia,Clothing,257.96
+SKU-0223,Torrentshell 3L Rain Jacket,Patagonia,Clothing,155.27
+SKU-0224,501 Original Fit Jeans,Levi's,Clothing,63.96
+SKU-0225,511 Slim Fit Jeans,Levi's,Clothing,50.14
+SKU-0226,505 Regular Fit Jeans,Levi's,Clothing,52.76
+SKU-0227,High Waist Skinny Jeans,Levi's,Clothing,59.06
+SKU-0228,Ribcage Straight Ankle Jeans,Levi's,Clothing,86.05
+SKU-0229,Wedgie Straight Jeans,Levi's,Clothing,72.15
+SKU-0230,Classic Logo Tee,Levi's,Clothing,28.61
+SKU-0231,Slim Fit V-Neck Tee 3-Pack,Calvin Klein,Clothing,36.12
+SKU-0232,Soft Wash Crew Neck Tee,Banana Republic,Clothing,25.86
+SKU-0233,Athletic Fit Chino,Banana Republic,Clothing,70.9
+SKU-0234,Heavyweight Pocket Tee,Carhartt,Clothing,25.75
+SKU-0235,Rain Defender Hoodie,Carhartt,Clothing,58.7
+SKU-0236,Relaxed Fit Dungarees,Carhartt,Clothing,40.8
+SKU-0237,Align Tank Top,Lululemon,Clothing,65.81
+SKU-0238,Scuba Oversized Half-Zip,Lululemon,Clothing,105.39
+SKU-0239,Define Jacket,Lululemon,Clothing,115.84
+SKU-0240,"ABC Slim Pant 32""",Lululemon,Clothing,130.39
+SKU-0241,Commission Classic Pant,Lululemon,Clothing,126.38
+SKU-0242,"Align High-Rise Pant 25""",Lululemon,Clothing,99.67
+SKU-0243,"Wunder Train HR Tight 28""",Lululemon,Clothing,98.46
+SKU-0244,"Fast & Free HR Tight 25""",Lululemon,Clothing,126.69
+SKU-0245,"Instinct Shorts 7""",Lululemon,Clothing,62.09
+SKU-0246,Metal Vent Tech Polo,Lululemon,Clothing,92.32
+SKU-0247,Ribbed Cropped Tank,Zara,Clothing,17.39
+SKU-0248,Satin Finish Blouse,Zara,Clothing,40.54
+SKU-0249,Oversized Blazer,Zara,Clothing,89.15
+SKU-0250,Wide Leg Trousers,Zara,Clothing,45.0
+SKU-0251,Cashmere Crewneck Sweater,Everlane,Clothing,107.49
+SKU-0252,Organic Cotton Box-Cut Tee,Everlane,Clothing,27.52
+SKU-0253,Classic Stripe Boatneck,J.Crew,Clothing,50.45
+SKU-0254,High Rise Chino Crop,J.Crew,Clothing,68.17
+SKU-0255,Merino Crew Sweater,J.Crew,Clothing,98.97
+SKU-0256,Stretch Slim Fit Chino,J.Crew,Clothing,88.92
+SKU-0257,Flannel Button-Up Shirt,L.L.Bean,Clothing,50.47
+SKU-0258,Iron Free Khaki Slim Fit,Dockers,Clothing,48.2
+SKU-0259,ThermoBall Eco Jacket,The North Face,Clothing,192.26
+SKU-0260,1996 Retro Nuptse Jacket,The North Face,Clothing,326.66
+SKU-0261,Puffer Vest,The North Face,Clothing,175.43
+SKU-0262,Osito Fleece Jacket,The North Face,Clothing,106.59
+SKU-0263,Atom LT Hoodie,Arc'teryx,Clothing,258.11
+SKU-0264,Beta AR Jacket,Arc'teryx,Clothing,514.77
+SKU-0265,Watertight II Rain Jacket,Columbia,Clothing,65.67
+SKU-0266,Heavenly Long Hooded Jacket,Columbia,Clothing,164.18
+SKU-0267,Stretch Move Jogger,Athleta,Clothing,91.23
+SKU-0268,Brooklyn Ankle Pant,Athleta,Clothing,108.74
+SKU-0269,Performance Polo,Under Armour,Clothing,59.46
+SKU-0270,HeatGear Compression Shirt,Under Armour,Clothing,29.08
+SKU-0271,"Velocity Running Shorts 5""",Under Armour,Clothing,42.17
+SKU-0272,Classic Leather Shoes,Reebok,Clothing,75.99
+SKU-0273,Old Skool Shoes,Vans,Clothing,69.95
+SKU-0274,Sk8-Hi Shoes,Vans,Clothing,79.08
+SKU-0275,Chuck Taylor All Star Shoes,Converse,Clothing,52.01
+SKU-0276,990v6 Shoes,New Balance,Clothing,189.04
+SKU-0277,574 Core Shoes,New Balance,Clothing,76.61
+SKU-0278,550 Shoes,New Balance,Clothing,110.62
+SKU-0279,GEL-Kayano 30 Running Shoes,ASICS,Clothing,158.17
+SKU-0280,Ultracraft Hiker Boot,Timberland,Clothing,158.14
+SKU-0281,Arizona Birko-Flor Sandal,Birkenstock,Clothing,114.35
+SKU-0282,Boston Soft Footbed Clog,Birkenstock,Clothing,150.09
+SKU-0283,Moisturizing Cream 16oz,CeraVe,Beauty,17.17
+SKU-0284,Hydrating Facial Cleanser,CeraVe,Beauty,12.32
+SKU-0285,AM Moisturizing Lotion SPF 30,CeraVe,Beauty,15.44
+SKU-0286,Retinol Serum 0.5%,The Ordinary,Beauty,11.62
+SKU-0287,Niacinamide 10% + Zinc 1%,The Ordinary,Beauty,8.54
+SKU-0288,Hyaluronic Acid 2% + B5,The Ordinary,Beauty,7.28
+SKU-0289,Ultra Facial Cream,Kiehl's,Beauty,36.24
+SKU-0290,Midnight Recovery Concentrate,Kiehl's,Beauty,45.87
+SKU-0291,Advanced Night Repair Serum,Estee Lauder,Beauty,75.11
+SKU-0292,Hydro Boost Water Gel,Neutrogena,Beauty,22.4
+SKU-0293,Ultra Sheer SPF 55 Sunscreen,Neutrogena,Beauty,12.19
+SKU-0294,UV Expert Sunscreen SPF 50,Lancome,Beauty,40.62
+SKU-0295,C E Ferulic Serum,SkinCeuticals,Beauty,170.87
+SKU-0296,Luna Sleeping Night Oil,Sunday Riley,Beauty,57.83
+SKU-0297,Good Genes Lactic Acid Treatment,Sunday Riley,Beauty,100.82
+SKU-0298,Protini Polypeptide Moisturizer,Drunk Elephant,Beauty,58.1
+SKU-0299,No.5 Bond Maintenance Shampoo,Olaplex,Beauty,26.3
+SKU-0300,No.3 Hair Perfector,Olaplex,Beauty,29.77
+SKU-0301,No.4 Bond Maintenance Conditioner,Olaplex,Beauty,29.62
+SKU-0302,Supersonic Hair Dryer,Dyson,Beauty,383.56
+SKU-0303,Airwrap Multi-Styler Complete,Dyson,Beauty,582.46
+SKU-0304,Corrale Straightener,Dyson,Beauty,457.25
+SKU-0305,Moisture Shampoo 33.8oz,Moroccanoil,Beauty,44.07
+SKU-0306,Treatment Original 3.4oz,Moroccanoil,Beauty,35.53
+SKU-0307,Professional Ionic Hair Dryer,BaBylissPRO,Beauty,65.17
+SKU-0308,Keratin Smooth Shampoo 28oz,TRESemme,Beauty,7.7
+SKU-0309,Coconut & Hibiscus Shampoo 13oz,SheaMoisture,Beauty,12.18
+SKU-0310,Strengthening Shampoo 13oz,SheaMoisture,Beauty,12.44
+SKU-0311,Soft Matte Foundation,NARS,Beauty,46.99
+SKU-0312,Orgasm Blush,NARS,Beauty,31.68
+SKU-0313,Luminous Silk Foundation,Giorgio Armani,Beauty,58.49
+SKU-0314,Lip Glow Oil,Dior,Beauty,34.62
+SKU-0315,Backstage Face & Body Foundation,Dior,Beauty,43.46
+SKU-0316,Sauvage Eau de Parfum 3.4oz,Dior,Beauty,135.94
+SKU-0317,Miss Dior EDP 3.4oz,Dior,Beauty,127.19
+SKU-0318,Lash Sensational Mascara,Maybelline,Beauty,10.48
+SKU-0319,Fit Me Concealer,Maybelline,Beauty,5.46
+SKU-0320,SuperStay Matte Ink Lipstick,Maybelline,Beauty,10.72
+SKU-0321,Brow Wiz Pencil,Anastasia Beverly Hills,Beauty,24.46
+SKU-0322,Soft Glam Eyeshadow Palette,Anastasia Beverly Hills,Beauty,48.83
+SKU-0323,Born This Way Concealer,Too Faced,Beauty,31.68
+SKU-0324,Lip Liner,MAC,Beauty,21.64
+SKU-0325,Ruby Woo Lipstick,MAC,Beauty,19.07
+SKU-0326,Setting Spray All Nighter,Urban Decay,Beauty,34.16
+SKU-0327,Naked3 Eyeshadow Palette,Urban Decay,Beauty,47.32
+SKU-0328,Translucent Loose Setting Powder,Laura Mercier,Beauty,42.31
+SKU-0329,Bleu de Chanel EDP 3.4oz,Chanel,Beauty,158.08
+SKU-0330,Chance Eau Tendre EDP 3.4oz,Chanel,Beauty,150.92
+SKU-0331,Light Blue EDT 3.3oz,Dolce & Gabbana,Beauty,89.89
+SKU-0332,The One EDP 3.3oz,Dolce & Gabbana,Beauty,85.2
+SKU-0333,Good Girl EDP 2.7oz,Carolina Herrera,Beauty,118.62
+SKU-0334,Black Opium EDP 3oz,Yves Saint Laurent,Beauty,103.78
+SKU-0335,Libre EDP 3oz,Yves Saint Laurent,Beauty,136.17
+SKU-0336,Cloud EDP 3.4oz,Ariana Grande,Beauty,65.45
+SKU-0337,Oral-B iO Series 9 Toothbrush,Oral-B,Beauty,260.12
+SKU-0338,Series 9 Pro Electric Shaver,Braun,Beauty,314.33
+SKU-0339,Sensitive Skin Deodorant 2-Pack,Native,Beauty,21.3
+SKU-0340,Original Body Wash 16oz,Dr. Bronner's,Beauty,13.22
+SKU-0341,Aquarius Water Flosser,Waterpik,Beauty,64.91
+SKU-0342,Adjustable Dumbbells 5-52.5lb,Bowflex,Sports & Outdoors,321.76
+SKU-0343,SelectTech 1090 Dumbbells,Bowflex,Sports & Outdoors,351.37
+SKU-0344,Bike+ Indoor Cycle,Peloton,Sports & Outdoors,2091.56
+SKU-0345,Tread Treadmill,Peloton,Sports & Outdoors,3159.13
+SKU-0346,Guide Strength Trainer,Peloton,Sports & Outdoors,574.65
+SKU-0347,C6 Spin Bike,Schwinn,Sports & Outdoors,992.38
+SKU-0348,"Foam Roller 36""",TriggerPoint,Sports & Outdoors,31.79
+SKU-0349,Pull-Up Bar Doorway,Iron Gym,Sports & Outdoors,30.41
+SKU-0350,Resistance Band Set 5-Pack,Fit Simplify,Sports & Outdoors,12.4
+SKU-0351,Adjustable Weight Bench,REP Fitness,Sports & Outdoors,277.49
+SKU-0352,Yoga Mat 5mm Premium,Manduka,Sports & Outdoors,79.72
+SKU-0353,TRX Suspension Trainer Pro4,TRX,Sports & Outdoors,195.96
+SKU-0354,Model D Rowing Machine,Concept2,Sports & Outdoors,917.3
+SKU-0355,Trail 2 Tent 2-Person,REI Co-op,Sports & Outdoors,227.52
+SKU-0356,Basecamp 6 Tent,REI Co-op,Sports & Outdoors,366.86
+SKU-0357,Trailbreak 30 Sleeping Bag,REI Co-op,Sports & Outdoors,78.25
+SKU-0358,Flash 55 Pack,REI Co-op,Sports & Outdoors,179.62
+SKU-0359,Rambler 26oz Bottle,YETI,Sports & Outdoors,35.54
+SKU-0360,Tundra 45 Cooler,YETI,Sports & Outdoors,296.73
+SKU-0361,Hopper Flip 12 Soft Cooler,YETI,Sports & Outdoors,235.43
+SKU-0362,Atmos AG 65L Backpack,Osprey,Sports & Outdoors,268.82
+SKU-0363,Eddy+ 32oz Bottle,CamelBak,Sports & Outdoors,15.42
+SKU-0364,32oz Wide Mouth Bottle,Hydro Flask,Sports & Outdoors,44.11
+SKU-0365,Portable Camping Chair,Coleman,Sports & Outdoors,27.85
+SKU-0366,Adventure Quencher 40oz Tumbler,Stanley,Sports & Outdoors,40.77
+SKU-0367,Flash Cooking System,Jetboil,Sports & Outdoors,104.09
+SKU-0368,Official NBA Game Ball,Spalding,Sports & Outdoors,160.26
+SKU-0369,NBA Street Basketball,Spalding,Sports & Outdoors,19.02
+SKU-0370,FIFA Quality Pro Soccer Ball,Adidas,Sports & Outdoors,157.02
+SKU-0371,NFL The Duke Football,Wilson,Sports & Outdoors,120.54
+SKU-0372,"A2000 Baseball Glove 11.5""",Wilson,Sports & Outdoors,264.97
+SKU-0373,Pure Drive Tennis Racquet,Babolat,Sports & Outdoors,218.68
+SKU-0374,FX 3 Disc Hybrid Bike,Trek,Sports & Outdoors,999.59
+SKU-0375,Rally MIPS Helmet,Trek,Sports & Outdoors,109.93
+SKU-0376,Quick 4 Hybrid Bike,Cannondale,Sports & Outdoors,759.5
+SKU-0377,KICKR Smart Trainer,Wahoo,Sports & Outdoors,1231.85
+SKU-0378,Star Wars Millennium Falcon 75375,LEGO,Toys & Games,172.21
+SKU-0379,Technic Lamborghini 42161,LEGO,Toys & Games,400.97
+SKU-0380,City Police Station 60316,LEGO,Toys & Games,65.96
+SKU-0381,Creator 3-in-1 Cozy House 31139,LEGO,Toys & Games,46.2
+SKU-0382,Friends Heartlake City Hospital,LEGO,Toys & Games,85.01
+SKU-0383,Harry Potter Hogwarts Castle 76419,LEGO,Toys & Games,135.19
+SKU-0384,Icons Bouquet of Roses 10328,LEGO,Toys & Games,53.08
+SKU-0385,Gravitrax Starter Set,Ravensburger,Toys & Games,50.04
+SKU-0386,Magna-Tiles 100-Piece Set,Magna-Tiles,Toys & Games,104.91
+SKU-0387,Settlers of Catan,Catan Studio,Toys & Games,35.27
+SKU-0388,Ticket to Ride,Days of Wonder,Toys & Games,38.2
+SKU-0389,Codenames,Czech Games,Toys & Games,18.7
+SKU-0390,Wingspan Board Game,Stonemaier Games,Toys & Games,55.16
+SKU-0391,Azul Board Game,Plan B Games,Toys & Games,35.03
+SKU-0392,Pandemic Board Game,Z-Man Games,Toys & Games,35.16
+SKU-0393,Splendor Board Game,Space Cowboys,Toys & Games,32.01
+SKU-0394,Exploding Kittens Original,Exploding Kittens,Toys & Games,17.74
+SKU-0395,Trampoline 14ft with Enclosure,Springfree,Toys & Games,1299.12
+SKU-0396,A5 Lux Kick Scooter,Razor,Toys & Games,84.74
+SKU-0397,Elite 2.0 Blaster,Nerf,Toys & Games,23.3
+SKU-0398,Super Soaker XP100,Nerf,Toys & Games,16.9
+SKU-0399,PowerWheels Jeep Wrangler,Fisher-Price,Toys & Games,364.47
+SKU-0400,Sparkling Water Variety 24-Pack,LaCroix,Grocery,9.86
+SKU-0401,Energy Drink 12-Pack Original,Red Bull,Grocery,20.65
+SKU-0402,Cold Brew Concentrate 32oz,Chameleon,Grocery,8.64
+SKU-0403,Protein Shake 12-Pack Chocolate,Fairlife,Grocery,25.31
+SKU-0404,Organic Whole Milk 1gal,Horizon,Grocery,7.8
+SKU-0405,Orange Juice No Pulp 52oz,Tropicana,Grocery,5.59
+SKU-0406,Mixed Nuts 27oz,Kirkland,Grocery,12.68
+SKU-0407,Organic Trail Mix 26oz,Kirkland,Grocery,10.34
+SKU-0408,Protein Bars Variety 14ct,KIND,Grocery,21.09
+SKU-0409,Goldfish Crackers 30oz,Pepperidge Farm,Grocery,8.9
+SKU-0410,Skinny Pop Popcorn 12-Pack,SkinnyPop,Grocery,9.34
+SKU-0411,Larabar Variety Pack 18ct,Larabar,Grocery,20.91
+SKU-0412,All-Purpose Cleaner 32oz,Mrs. Meyer's,Grocery,5.5
+SKU-0413,Disinfecting Wipes 3-Pack 225ct,Clorox,Grocery,11.69
+SKU-0414,Laundry Detergent 100oz Free & Clear,Tide,Grocery,12.9
+SKU-0415,Pods Laundry Detergent 81ct,Tide,Grocery,20.19
+SKU-0416,Dish Soap 28oz Original,Dawn,Grocery,4.05
+SKU-0417,Select-A-Size Paper Towels 12-Roll,Bounty,Grocery,23.71
+SKU-0418,Ultra Soft Toilet Paper 24-Roll,Charmin,Grocery,24.85
+SKU-0419,Ziplock Gallon Bags 152ct,Ziploc,Grocery,15.4
+SKU-0420,Trash Bags 13gal 80ct,Glad,Grocery,10.29
+SKU-0421,Aluminum Foil 200ft,Reynolds,Grocery,10.66
+SKU-0422,Vista V2 Stroller,UPPAbaby,Baby & Kids,993.46
+SKU-0423,MESA MAX Infant Car Seat,UPPAbaby,Baby & Kids,414.55
+SKU-0424,mamaRoo Multi-Motion Swing,4moms,Baby & Kids,253.82
+SKU-0425,Pack 'n Play On the Go Playard,Graco,Baby & Kids,78.89
+SKU-0426,Carrier Mini,BabyBjorn,Baby & Kids,73.88
+SKU-0427,Omni Breeze Carrier,Ergobaby,Baby & Kids,175.24
+SKU-0428,Swaddlers Diapers Size 1 198ct,Pampers,Baby & Kids,42.07
+SKU-0429,Cruisers 360 Diapers Size 4 116ct,Pampers,Baby & Kids,45.51
+SKU-0430,Sensitive Baby Wipes 720ct,Pampers,Baby & Kids,20.62
+SKU-0431,Snug & Dry Diapers Size 2 184ct,Huggies,Baby & Kids,39.07
+SKU-0432,Natural Care Baby Wipes 560ct,Huggies,Baby & Kids,16.13
+SKU-0433,Honest Diapers Size 3 136ct,Honest,Baby & Kids,40.76
+SKU-0434,Anti-Colic Bottles 8oz 4-Pack,Dr. Brown's,Baby & Kids,24.75
+SKU-0435,S1 Plus Breast Pump,Spectra,Baby & Kids,179.72
+SKU-0436,Formula Pro Advanced,Baby Brezza,Baby & Kids,181.01
+SKU-0437,1st Foods Variety 10-Pack,Gerber,Baby & Kids,10.0
+SKU-0438,Happy Mat Silicone Placemat,ezpz,Baby & Kids,27.09
+SKU-0439,Laugh & Learn Walker,Fisher-Price,Baby & Kids,23.56
+SKU-0440,Wooden Blocks 100pc Set,Melissa & Doug,Baby & Kids,18.01
+SKU-0441,Sit-to-Stand Learning Walker,VTech,Baby & Kids,35.68
+SKU-0442,Life Protection Adult 30lb,Blue Buffalo,Pet Supplies,61.84
+SKU-0443,Indoor Health Cat Food 15lb,Blue Buffalo,Pet Supplies,38.76
+SKU-0444,Pro Plan Adult 35lb Chicken,Purina,Pet Supplies,64.35
+SKU-0445,Fancy Feast Classic Pate 30-Pack,Fancy Feast,Pet Supplies,23.35
+SKU-0446,Tidy Cats Clumping Litter 35lb,Purina,Pet Supplies,19.68
+SKU-0447,Medium Adult Dry Food 30lb,Royal Canin,Pet Supplies,73.51
+SKU-0448,Dental Treats Original 36oz,Greenies,Pet Supplies,33.54
+SKU-0449,Mini Naturals Training Treats 16oz,Zuke's,Pet Supplies,13.32
+SKU-0450,Ultra Premium Litter 40lb,Dr. Elsey's,Pet Supplies,19.74
+SKU-0451,Litter-Robot 4 Automatic,Litter-Robot,Pet Supplies,683.58
+SKU-0452,Classic Dog Toy Large,KONG,Pet Supplies,13.97
+SKU-0453,Deshedding Tool Large Dog,FURminator,Pet Supplies,33.75
+SKU-0454,Easy Walk Harness Large,PetSafe,Pet Supplies,23.81
+SKU-0455,Flea & Tick Collar Large Dog,Seresto,Pet Supplies,57.46
+SKU-0456,GO Explore GPS Pet Tracker,Whistle,Pet Supplies,118.13
+SKU-0457,Front Range Dog Harness M,Ruffwear,Pet Supplies,42.13
+SKU-0458,G2 Gel Pens 12-Pack,Pilot,Office Supplies,14.09
+SKU-0459,Cristal Ballpoint Pens 24-Pack,BIC,Office Supplies,6.88
+SKU-0460,Post-it Notes 3x3 24-Pack,3M,Office Supplies,19.65
+SKU-0461,Scotch Heavy Duty Tape 6-Pack,3M,Office Supplies,14.31
+SKU-0462,747 Desktop Stapler,Swingline,Office Supplies,15.43
+SKU-0463,Five Star 3-Subject Notebook 3-Pack,Mead,Office Supplies,13.09
+SKU-0464,USB-C Hub 7-Port,AmazonBasics,Office Supplies,27.2
