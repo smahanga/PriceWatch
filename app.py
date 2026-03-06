@@ -265,6 +265,25 @@ with st.sidebar:
     )
 
     st.markdown("---")
+    region = st.selectbox(
+        "Search Region",
+        [
+            ("wt-wt", "Worldwide"),
+            ("us-en", "United States"),
+            ("au-en", "Australia"),
+            ("uk-en", "United Kingdom"),
+            ("eu-en", "Europe"),
+            ("ca-en", "Canada"),
+            ("in-en", "India"),
+            ("de-de", "Germany"),
+            ("fr-fr", "France"),
+            ("jp-jp", "Japan"),
+        ],
+        format_func=lambda x: x[1],
+        help="Region for competitor price search. Affects which retailers and prices appear.",
+    )
+
+    st.markdown("---")
     max_results = st.slider("Max competitors per product", 3, 10, 5)
     delay = st.slider("Request delay (seconds)", 1.0, 5.0, 2.5, 0.5)
 
@@ -378,7 +397,7 @@ with reset_col:
         st.rerun()
 
 if run_btn:
-    scraper = PriceScraper(delay=delay, max_results=max_results)
+    scraper = PriceScraper(delay=delay, max_results=max_results, region=region[0])
     results: List[ProductComparison] = []
 
     bar = st.progress(0, text="Initialising scanner...")

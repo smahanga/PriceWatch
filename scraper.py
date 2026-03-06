@@ -192,9 +192,10 @@ class ProductComparison:
 class PriceScraper:
     """Fetch competitor prices via DuckDuckGo text search + price extraction."""
 
-    def __init__(self, delay: float = 2.5, max_results: int = 6):
+    def __init__(self, delay: float = 2.5, max_results: int = 6, region: str = "wt-wt"):
         self.delay = delay
         self.max_results = max_results
+        self.region = region
 
     # -- price helpers ------------------------------------------------------
 
@@ -258,7 +259,7 @@ class PriceScraper:
             seen: set[str] = set()
 
             with DDGS() as ddgs:
-                items = list(ddgs.text(f"{query} buy price", max_results=15))
+                items = list(ddgs.text(f"{query} buy price", region=self.region, max_results=15))
 
             lo = our_price * 0.30
             hi = our_price * 2.5
